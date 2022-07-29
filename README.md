@@ -10,3 +10,7 @@ SPI
 DRM
 KMS
 FBDEV
+
+# fbdev-backend to drm-backend Wayland Migration
+# fbdevsink to waylandsink gstreamer Migration
+# wayland-backend GUI Toolkit Migration
