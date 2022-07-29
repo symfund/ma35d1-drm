@@ -1,0 +1,12 @@
+# ma35d1-drm
+
+Parallel RGB/MPU(80/68) interface
+MIPI DBI/DPI
+MIPI DSI
+LVDS
+HDMA
+SPI
+
+DRM
+KMS
+FBDEV
