@@ -4,7 +4,7 @@
 # MIPI DPI/DBI
 # MIPI DSI
 # LVDS
-# HDMA
+# HDMI
 # SPI
 
 # DRM modern graphics stack
@@ -13,4 +13,4 @@
 
 # fbdev-backend to drm-backend Wayland Migration
 # fbdevsink to waylandsink gstreamer Migration
-# wayland-backend GUI Toolkit Migration
+# wayland-backend GUI Toolkits Migration
